@@ -5,7 +5,7 @@
  klasy anonimowej
  */
 
-public class Zadanie4 {
+public class Zadanie4_5 {
 
     public static class IntSequence {
         public static String of(Integer... args){
